@@ -1,9 +1,9 @@
-Device Tree For Samsung Galaxy S3 Neo
+Device Tree For Lenovo A6000
 ===================================== 
 
 | Basic   | Spec Sheet                  |
 | -------:|:--------------------------- |
-| CPU     | Quad-core 1.4 GHz Cortex-A7 | 
+| CPU     | Quad-core 1.4 GHz Cortex-A53 | 
 | CHIPSET | Qualcomm Snapdragon 410 |
 | GPU     | Adreno 306 |
 | Memory  | 1 GB RAM |
