@@ -17,7 +17,7 @@ Device Tree For Lenovo A6000
 
 ![Lenovo A6000](http://cdn2.gsmarena.com/vv/pics/lenovo/lenovo-a6000-1.jpg "Lenovo A6000")
 
-This branch is for building CyanogenMod 12.0 Firmware.
+This branch is for building CyanogenMod 12.1 Firmware.
 
 TODO:
 =======
